@@ -1,0 +1,24 @@
+{
+  "name": "semana9Reprograma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mflilian/semana9Reprograma.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mflilian/semana9Reprograma/issues"
+  },
+  "homepage": "https://github.com/mflilian/semana9Reprograma#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "readline-sync": "^1.4.10"
+  }
+}

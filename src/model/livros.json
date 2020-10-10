@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "titulo": "O Cortiço",
+        "autor": "Aluisio Azevedo",
+        "genero": "Romance",
+        "editora": "Edições Câmara",
+        "anoPublicacao": 1890    },
+    {
+        "id": 2,
+        "titulo": "O mulato",
+        "autor": "Aluisio Azevedo",
+        "genero": "Romance",
+        "editora": "Edições Câmara",
+        "anoPublicacao": 1881    },
+    {
+        "id": 3,
+        "titulo": "Iracema",
+        "autor": "Jose de Alencar",
+        "genero": "Romance",
+        "editora": "Edições Câmara",
+        "anoPublicacao": 1860
+    },
+    {
+        "id": 4,
+        "titulo": "Senhora",
+        "autor": "Jose de Alencar",
+        "genero": "Romance",
+        "editora": "Edições Câmara",
+        "anoPublicacao": 1874
+    },
+    {
+        "id": 5,
+        "titulo": "O Príncipe",
+        "autor": "Nicolau Maquiavel",
+        "genero": "Aconselhamento",
+        "editora": "Textos para Reflexão",
+        "anoPublicacao": 1532
+    }
+]
